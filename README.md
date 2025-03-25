@@ -45,5 +45,5 @@ El proyecto tiene la siguiente estructura de archivos:
 1. Clona el repositorio de GitHub:
 
    ```bash
-   git clone https://github.com/corucosmos/terraform-icorujo.git
-   cd terraform-icorujo.git
+   git clone https://github.com/corucosmos/terraform-entrega-sprint3.git
+   cd terraform-entrega-sprint3
