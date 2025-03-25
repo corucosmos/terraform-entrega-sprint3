@@ -1,6 +1,6 @@
 # Proyecto Terraform Entrega Sprint 3
 
-Este es un proyecto ejercicio para probar un despligue con módulos `compute`, `network` y `storage`.
+Este es un proyecto para probar un despligue con módulos `compute`, `network` y `storage`, en terraform.
 
 ## Descripción
 
